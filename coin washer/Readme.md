@@ -2,7 +2,7 @@
 
 In the throes of the global pandemic, epidemic prevention has assumed paramount importance on the world stage. Despite the rise of societal habits like regular handwashing, mask-wearing, and social distancing, mounting concerns persist in the public consciousness. In response, we conceived the idea of "washing coins."
 
-During our typical school days, the noon break would see us heading to the local shopping street to procure lunch. Although everyone adhered to mask-wearing, suspicions arose among students and parents regarding potential oversights leading to epidemic vulnerabilities. Media reports, including those from [CommonWealth Magazine](https://www.gvm.com.tw/article/72131), often underscored the virus's ability to survive on the copper surface ofcoins for up to four hours. This compelled us to confront this significant issue.
+During our typical school days, the noon break would see students heading to the local shopping street to procure lunch. Although everyone adhered to mask-wearing, suspicions arose among students and parents regarding potential oversights leading to epidemic vulnerabilities. Media reports, including those from [CommonWealth Magazine](https://www.gvm.com.tw/article/72131), often underscored the virus's ability to survive on the copper surface of coins for up to four hours. This compelled us to confront this significant issue.
 
 ## Casting a Stone to Draw Jade – Transforming Convenience into Action
 
